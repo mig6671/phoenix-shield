@@ -379,6 +379,4 @@ MIT License - Free for personal and commercial use.
 
 ---
 
-<p align="center">
-  <strong>Like the Phoenix, your system rises from backup 🔥🛡️</strong>
-</p>
+**Like the Phoenix, your system rises from backup 🔥🛡️**
