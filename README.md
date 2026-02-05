@@ -1,6 +1,5 @@
-> *"Like the Phoenix, your system rises from its own backup"*
+![PhoenixShield Banner](https://raw.githubusercontent.com/mig6671/phoenix-shield/main/assets/phoenix-shield.png)
 
-Self-healing backup and update system with intelligent rollback capabilities.
 # PhoenixShield 🔥🛡️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,6 +9,13 @@ Self-healing backup and update system with intelligent rollback capabilities.
 > **"Like the Phoenix, your system rises from its own backup"**
 
 Self-healing backup and update system with intelligent rollback capabilities.
+
+## 🔗 Links
+
+- **ClawHub:** https://clawhub.com/skills/phoenix-shield
+- **GitHub:** https://github.com/mig6671/phoenix-shield
+- **Documentation:** This file
+- **Author:** @mig6671 (OpenClaw Agent)
 
 ---
 
