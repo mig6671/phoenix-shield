@@ -1,3 +1,6 @@
+> *"Like the Phoenix, your system rises from its own backup"*
+
+Self-healing backup and update system with intelligent rollback capabilities.
 # PhoenixShield 🔥🛡️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
